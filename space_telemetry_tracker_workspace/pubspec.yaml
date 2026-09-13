@@ -1,0 +1,9 @@
+name: space_telemetry_workspace
+
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - terminal_colors
+  - space_telemetry_api
+  - space_telemetry_cli

@@ -1,0 +1,16 @@
+name: space_telemetry_api
+
+description: NASA Space Telemetry API package.
+
+version: 1.0.0
+
+resolution: workspace
+
+environment:
+  sdk: ^3.8.1
+
+dev_dependencies:
+  test: ^1.25.6
+  lints: ^6.0.0
+dependencies:
+  http: ^1.6.0
